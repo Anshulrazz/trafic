@@ -18,7 +18,7 @@ function App() {
           <h1>RED</h1>
           </div>
           <div className="yellow2"><br />
-          <h1>YELLOW</h1>
+          <h1>YELLOW-ANSHUL</h1>
           </div>
           <div className="green3"><br />
           <h1>GREEN</h1>
